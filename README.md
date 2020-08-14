@@ -5,7 +5,7 @@
 > opencv
 imaug库在[这里下载](https://github.com/aleju/imgaug)
 
-imaug使用[参考文档](https://khan.github.io/KaTeX/)
+imaug使用[参考文档](https://imgaug.readthedocs.io/en/latest/source/examples_basics.html)
 
 
 
